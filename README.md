@@ -1,5 +1,5 @@
 # ethical-consumption
  Find and limit my consumption to known ethical and sustainable  production. Where in doubt avoid, if I have to, I will cosume the bare minimum to survive and with required health parameters. I have to know as much as possible how it was sourced , farmed and produced
 
-#Inspired By: Hogwood: A Modern Horror Story
-https://www.imdb.com/title/tt12185108/
+#Inspired, Convinced, Converted By: Hogwood: A Modern Horror Story
+ https://www.imdb.com/title/tt12185108/
