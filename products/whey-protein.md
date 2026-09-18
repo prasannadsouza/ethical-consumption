@@ -2,6 +2,25 @@
 
 > **Status:** Working decision, 18 September 2026. Ratings reflect the evidence found so far; they are not permanent certifications.
 
+## Main conclusion: the production model we prefer
+
+The **Beaufort AOP model** is currently the clearest example of the direction we prefer for animal-derived whey. Its main value is not simply that it is traditional or protected by an AOP label. Its value is that production is **bounded by a place and its natural capacity**: a defined mountain region, suitable land, locally adapted Tarine and Abondance cattle, seasonal grazing, winter hay, farmers and controlled milk production.
+
+The ethical principle is:
+
+> **Demand must adapt to the humane and ecological capacity of the production system. Animals, farmers and land must not be pushed harder simply because the market wants more.**
+
+This means:
+
+- **Animal welfare comes before maximum output.** Cows should have adequate pasture, suitable feed, shelter, health care, rest and a life that allows natural behaviour. Milk yield must not be increased by continually placing more physical pressure on the animals.
+- **Land and local ecosystems set the limit.** The number of animals and the amount produced should be governed by available pasture, locally produced hay, climate, biodiversity and the labour needed to care for the animals properly.
+- **Running out is acceptable.** If ethically produced cheese or whey is sold out, the answer should be to wait, reduce consumption or use a plant alternative—not weaken the rules, crowd in more animals or force higher yields.
+- **Useful preservation is preferable to waste.** Turning limited seasonal milk into durable products such as cheese, and drying the resulting cheesemaking whey, allows more of the available milk to be used without requiring constant overproduction. For this reason, whey recovered as a genuine cheesemaking by-product is preferable to native whey produced directly from additional milk, although buying any dairy by-product still supports the dairy economy.
+- **Broader demand should be met through replication, not extraction.** One region should not be expanded beyond its carrying capacity. Instead, similarly bounded and humane systems can be developed in other suitable regions—including Sweden—using locally appropriate breeds, feed, land and climate. Each region would serve only the amount of demand that it can support responsibly.
+- **The goal is sufficient distributed abundance, not unlimited supply.** Several small or regional systems can together serve a reasonable population while remaining within their own natural limits. This is different from scaling one successful system until its ethical and ecological qualities are lost.
+
+Beaufort AOP is therefore a **promising structural model**, not yet proof of complete animal welfare. Its rules establish matters such as region, breeds, feed and production constraints, but further evidence is still needed about calf treatment and cow–calf separation, housing and space, reproduction, dehorning, veterinary practice, cow longevity, transport and slaughter. An AOP label cannot replace farm-level welfare verification.
+
 ## Immediate decision
 
 | Item | Decision |
@@ -34,12 +53,13 @@ This is therefore a **trial order**, not a perfectly balanced one-month 50:50 su
 
 ## Table of contents
 
-1. [Purpose and ethical standard](#purpose-and-ethical-standard)
-2. [Level system](#level-system)
-3. [Brands and sources](#brands-and-sources)
-4. [Brand assessments by level](#brand-assessments-by-level)
-5. [Whey versus plant protein](#whey-versus-plant-protein)
-6. [Questions for future review](#questions-for-future-review)
+1. [Main conclusion: the production model we prefer](#main-conclusion-the-production-model-we-prefer)
+2. [Purpose and ethical standard](#purpose-and-ethical-standard)
+3. [Level system](#level-system)
+4. [Brands and sources](#brands-and-sources)
+5. [Brand assessments by level](#brand-assessments-by-level)
+6. [Whey versus plant protein](#whey-versus-plant-protein)
+7. [Questions for future review](#questions-for-future-review)
 
 ## Purpose and ethical standard
 
@@ -71,6 +91,7 @@ These are the principal company/product sources used in the initial assessment. 
 - **Body Science:** [Body Science/MMSports product range](https://www.mmsports.se/Body-Science/)
 - **Nutri&Co:** [Whey and sports-nutrition range](https://nutriandco.com/fr/lifestyle-sport) and [company product description mentioning native whey from fresh milk and French grass-fed cows](https://nutriandco.com/en/lifestyle/shaker)
 - **Protéalpes:** [Official website](https://protealpes.com/)
+- **Beaufort AOP:** [Official Beaufort information site](https://www.fromage-beaufort.com/) and [INAO protected-product information](https://www.inao.gouv.fr/)
 - **Protero:** retain the source pages captured in the original comparison when this section is next audited; the present file records the decision reached in that review but does not invent a missing URL.
 
 ## Brand assessments by level
@@ -129,6 +150,8 @@ The ethical advantage of the plant portion is substantial because it directly re
 5. What are the exact crop origins, certifications and labour safeguards for the organic plant protein?
 6. After the trial, did 35–40 g/day of plant protein maintain digestion, recovery, strength and weight?
 7. Should the next order move beyond 50% plant protein?
+8. Does Protéalpes whey actually come from a bounded cheesemaking system comparable to Beaufort AOP, or is Beaufort only a model for future sourcing?
+9. Can suitable Swedish dairy regions reproduce the same principles without importing rules that do not fit Swedish land, breeds or climate?
 
 ---
 
